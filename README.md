@@ -8,7 +8,7 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 
 ## Execution
 
-Compile using: `gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c`
+Compile using: `gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c`<br />
 Execute using: `./collatz <num1> <num2>`
 
 ## Implementation
