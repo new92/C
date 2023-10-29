@@ -1,7 +1,7 @@
 # Coding problems I solved using C
 
-- [x] Collatz conjecture
-- [x] Fibonacci sequence 
+- Collatz conjecture [✅]
+- Fibonacci sequence [✅] 
 
 ## Installation
 
