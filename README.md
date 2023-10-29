@@ -10,8 +10,8 @@ git clone https://github.com/new92/collatz.git
 
 ## Execution
 
-Compile using: ```gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c```<br />
-Execute using: ```./collatz <num1> <num2>```
+Compile using: ```bash gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c```<br />
+Execute using: ```bash ./collatz <num1> <num2>```
 
 ## Implementation
 
