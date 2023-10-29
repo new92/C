@@ -18,6 +18,6 @@ gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c
 ## Implementation
 
 <ul>
-    <li>**Headers:**In the code, the `inttypes.h` header is included to define integer types with specific sizes. Additionally, the `time.h` header is included and used to ensure that the execution of the code will be completed within 4 minutes.</li>
-    <li>**Macros:**In the code, we also define some constants using preprocessor macros, such as `MAX_NUM`, `MIN_NUM`, and `MAX_SIZE`, which are used to set limits for input values and data size.</li>
+    <li>**Headers:** In the code, the `inttypes.h` header is included to define integer types with specific sizes. Additionally, the `time.h` header is included and used to ensure that the execution of the code will be completed within 4 minutes.</li>
+    <li>**Macros:** In the code, we also define some constants using preprocessor macros, such as `MAX_NUM`, `MIN_NUM`, and `MAX_SIZE`, which are used to set limits for input values and data size.</li>
 </ul>
