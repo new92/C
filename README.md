@@ -4,7 +4,9 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 
 ## Installation
 
-`git clone https://github.com/new92/collatz.git`
+```bash
+git clone https://github.com/new92/collatz.git
+```
 
 ## Execution
 
