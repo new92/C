@@ -8,12 +8,10 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 git clone https://github.com/new92/collatz.git
 ```
 
-## Execution
+## Compilation & Execution
 
-Compile using: ```bash 
+```bash 
 gcc -O0 -m32 -Wall -Wextra -Werror -pedantic -o collatz collatz.c
-```<br />
-Execute using: ```bash
 ./collatz <num1> <num2>
 ```
 
