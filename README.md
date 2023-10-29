@@ -1,4 +1,4 @@
-# Coding problems I solved using C
+# Famous coding problems I solved using C
 
 - Collatz conjecture ✅
 - Fibonacci sequence ✅
