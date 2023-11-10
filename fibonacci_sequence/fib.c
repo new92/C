@@ -4,8 +4,7 @@
 int fibonacci(int n) {
     int a = 0, b = 1, next, i;
 
-    if (n <= 0)
-        return a;
+    if (n <= 0) return a;
 
     for (i = 2; i < n + 1; i++) {
         next = a + b;
