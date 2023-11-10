@@ -7,7 +7,7 @@ int fibonacci(int n) {
     if (n <= 0)
         return a;
 
-    for (i = 2; i <= n; i++) {
+    for (i = 2; i < n + 1; i++) {
         next = a + b;
         a = b;
         b = next;
