@@ -11,5 +11,5 @@ cd coding_problems/palidrome_check
 
 ```bash
 gcc -o pal pal.c
-./pal number
+./pal
 ```
