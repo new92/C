@@ -2,6 +2,7 @@
 
 - Collatz conjecture ✅
 - Fibonacci sequence ✅
+- Palindrome check ✅
 
 ## Installation
 
