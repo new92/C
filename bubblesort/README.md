@@ -12,3 +12,4 @@ cd coding_problems/bubblesort
 ```bash
 gcc -o bubblesort bubblesort.c
 ./bubblesort array
+```
