@@ -1,4 +1,6 @@
 # Bubblesort 🫧
+The bubblesort algorithm.
+
 
 ## Installation
 
