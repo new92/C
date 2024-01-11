@@ -3,8 +3,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/new92/C-programs
-cd C-programs/bubblesort
+git clone https://github.com/new92/c
+cd c/bubblesort
 ```
 
 ## Compilation & Execution
