@@ -12,8 +12,8 @@ The sequence is named after Leonardo of Pisa, an Italian mathematician also know
 ## Installation
 
 ```bash
-git clone https://github.com/new92/coding_problems.git
-cd coding_problems/collatz_conjecture
+git clone https://github.com/new92/C-programs.git
+cd C-programs/collatz_conjecture
 ```
 
 ## Compilation & Execution
@@ -22,12 +22,3 @@ cd coding_problems/collatz_conjecture
 gcc -o fib fib.c
 ./fib number
 ```
-
-## Implementation
-
-<ul>
-  <li>The fibonacci function calculates the nth Fibonacci number iteratively, starting from the 0th and 1st Fibonacci numbers and iteratively calculating subsequent values.</li>
-  <li>The main function checks the command-line arguments and usage. It parses the integer 'n' from the command-line argument and ensures it is non-negative.</li>
-  <li>If 'n' is non-negative, it calls the fibonacci function to compute the nth Fibonacci number.</li>
-  <li>The program then prints the result, indicating which Fibonacci number it is in the sequence.</li>
-</ul>
