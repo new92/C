@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/new92/C-programs
+git clone https://github.com/new92/c
 ```
 
 
