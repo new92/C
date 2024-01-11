@@ -5,7 +5,7 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 ## Installation
 
 ```bash
-git clone https://github.com/new92/coding_problems.git
+git clone https://github.com/new92/C-programs
 cd coding_problems/collatz_conjecture
 ```
 
@@ -15,8 +15,3 @@ cd coding_problems/collatz_conjecture
 gcc -o collatz collatz.c
 ./collatz num1 num2
 ```
-
-## Implementation
-
-- **Headers:** In the code, the `inttypes.h` header is included to define integer types with specific sizes. Additionally, the `time.h` header is included and used to ensure that the execution of the code will be completed within 4 minutes.
-- **Macros:** In the code, we also define some constants using preprocessor macros, such as `MAX_NUM`, `MIN_NUM`, and `MAX_SIZE`, which are used to set limits for input values and data size.
