@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/new92/C-programs
-cd coding_problems/bubblesort
+cd C-programs/bubblesort
 ```
 
 ## Compilation & Execution
