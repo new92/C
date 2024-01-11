@@ -3,8 +3,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/new92/coding_problems.git
-cd coding_problems/palidrome_check
+git clone https://github.com/new92/C-programs.git
+cd C-programs/palidrome_check
 ```
 
 ## Compilation & Execution
