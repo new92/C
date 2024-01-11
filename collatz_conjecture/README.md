@@ -5,8 +5,8 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 ## Installation
 
 ```bash
-git clone https://github.com/new92/C-programs
-cd C-programs/collatz_conjecture
+git clone https://github.com/new92/C
+cd C/collatz_conjecture
 ```
 
 ## Compilation & Execution
