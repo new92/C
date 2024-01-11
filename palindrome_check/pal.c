@@ -15,7 +15,7 @@ int isPal(char str[]) {
 }
 
 int main() {
-    char str[] = "level";
+    char str[] = "level"; // replace "level" with the string you want to check
     if (isPal(str))
         printf("%s is a palindrome\n", str);
     else
