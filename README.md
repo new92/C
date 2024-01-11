@@ -1,8 +1,4 @@
-# Famous coding problems I solved using C
-
-- Collatz conjecture ✅
-- Fibonacci sequence ✅
-- Palindrome check ✅
+# List of programs I've built using C.
 
 ## Installation
 
