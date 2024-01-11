@@ -12,8 +12,8 @@ The sequence is named after Leonardo of Pisa, an Italian mathematician also know
 ## Installation
 
 ```bash
-git clone https://github.com/new92/C-programs.git
-cd C-programs/collatz_conjecture
+git clone https://github.com/new92/C
+cd C/collatz_conjecture
 ```
 
 ## Compilation & Execution
