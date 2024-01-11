@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/new92/coding_problems.git
+git clone https://github.com/new92/C-programs
 cd coding_problems/bubblesort
 ```
 
