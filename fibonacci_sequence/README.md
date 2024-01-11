@@ -1,4 +1,4 @@
-# The Fibonacci sequence 🧙‍♂️
+# The Fibonacci sequence 👨‍🎓
 
 The Fibonacci sequence is a series of numbers in which each number (except for the first two) is the sum of the two preceding ones. It typically starts with 0 and 1, and then each subsequent number is the sum of the two previous numbers. The sequence begins as follows:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
