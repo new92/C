@@ -7,4 +7,4 @@ git clone https://github.com/new92/c
 ```
 
 
-## You can find compilation & execution steps inside every directory.
+## You can find compilation & execution steps inside each directory.
